@@ -72,7 +72,7 @@ public class Main {
 
         // Show car scores
         System.out.println("===== CAR PERFORMANCE RATINGS =====");
-        System.out.println("Gravel Car Performance: " + gravel.findScore());
-        System.out.println("Asphalt Car Performance: " + asphalt.findScore());
+        System.out.println("Gravel Car Performance : " + gravel.findScore());
+        System.out.println("Asphalt Car Performance : " + asphalt.findScore());
     }
 }

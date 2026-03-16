@@ -9,6 +9,7 @@ public class AsphaltCar extends RallyCar {
 
     /**
      * Make an asphalt car
+     
      */
     public AsphaltCar(String brand, String name, int power, double air, double brakes) {
         super(brand, name, power);
